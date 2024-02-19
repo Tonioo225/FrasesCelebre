@@ -1,0 +1,2 @@
+En aquest capítol veurem com utilitzar Git Hub per allotjar repositoris
+ en remot
